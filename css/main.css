@@ -1,0 +1,19 @@
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+
+p {
+  font-family: 'Noto Serif', serif;
+}
+ h1 {
+   color: green;
+ }
+ .gato{
+   width: 225px; height: 225px;
+    background: url('css_sprites.png') -10px -10px;
+ }
+.gato2{
+  width: 225px; height: 225px;
+    background: url('css_sprites.png') -255px -10px;
+}
